@@ -2,6 +2,7 @@
 Voron 2.4r2 350mm Klipper Setup
 
 This repository contains the Klipper configuration files for my Voron 2.4r2 350mm 3D printer. These files are essential for the operation, tuning, and management of the printer.
+
 Table of Contents
 
     Installation
@@ -11,13 +12,11 @@ Table of Contents
 
 Installation
 
-    Clone this repository into your preferred directory.
-
-    bash
+Clone this repository into your preferred directory.
 
     git clone https://github.com/Etienneg93/Voron2.4r2-350mm.git
 
-    Follow the Klipper installation guide and link the appropriate configuration files.
+Follow the Klipper installation guide and link the appropriate configuration files.
 
 Configuration Files
 

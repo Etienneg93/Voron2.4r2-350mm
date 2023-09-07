@@ -34,7 +34,7 @@ Here's a brief overview of what each file in the repo does:
 - **nevermore.cfg**: Nevermore V5 Fan configuration.
 - **pauseresume.cfg**: Configuration for pause and resume functionality.
 - **picoadxl.cfg**: Configuration for the Pico ADXL345 sensor.
-- **printer.cfg**: Main Klipper configuration file.
+- **printer.cfg**: Main Klipper configuration file for BTT Octopus V1.1 Mainboard.
 - **stealthburner_led_nowhite.cfg**: LED configuration without white color.
 - **stealthburner_leds.cfg**: LED configuration.
 
